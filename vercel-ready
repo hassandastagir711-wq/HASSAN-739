@@ -1,0 +1,6 @@
+my-flask-app/
+│
+├── api/
+│   └── index.py         # Flask app yahan
+├── requirements.txt     # Dependencies
+└── vercel.json          # Vercel config
